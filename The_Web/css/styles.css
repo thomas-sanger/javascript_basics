@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  /* This is for <div class = "container"> */
+  text-align: center;
+  width: 500px;
+  margin: auto;
+}
+
+.container p {
+  text-align: justify;
+}
+
+.container img {
+  width: 100%;
+}
