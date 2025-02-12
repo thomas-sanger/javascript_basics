@@ -21,7 +21,7 @@
 
 // conditional statements are a comparison of values
 
-let myName = "Jen";
+// let myName = "Jen";
 
 // if (myName.toLowerCase == "bob") {
 //   console.log("Equal");
@@ -46,4 +46,5 @@ let myName = "Jen";
 // }
 
 // ternary
-console.log(myName == "Jenny" ? "Hey Jen" : "Who are you?");
+// console.log(myName == "Jenny" ? "Hey Jen" : "Who are you?"); // Means if Jen is true (`?`) then execute `Hey Jen` else (`:`)
+//                                                                  execute `Who are you?`
